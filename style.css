@@ -1,17 +1,30 @@
 body {
-   background-color: #009900;
+   background-color: #008000;
    color: #9affff;
-}
+	font-family: Tahoma, Rockwell, sans-serif;
+	}
     #srl {
-        color: #691D78;
+        color: #FFF8DC;
     }
     
     .classy {
         color: #800033;
     }
-h1 { color: #ff0000;}
-
-
-
+h1 { color: #ff0000;
+	}
+h1, h3, h4 { font-family: Papyrus, Rockwell, sans-serif
+	 }
+h3 { text-transform: uppercase;
+	}
+ul {list-style-type: circle;
+	}
+p a:link {font-weight: bold; font-size: 1.1em; text-decoration: none;
+	}
+div {background-image: url(redstill2.jpg); 
+	background-position: left;
+	background-repeat: repeat-x;
+	}
+footer { font-style: italic; font-size: .75em; 
+	}
 
 
