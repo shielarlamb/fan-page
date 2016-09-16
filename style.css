@@ -20,7 +20,7 @@ ul {list-style-type: circle;
 	}
 p a:link {font-weight: bold; font-size: 1.1em; text-decoration: none;
 	}
-div {background-image: url(redstill2.jpg); 
+div {background-image: url(images/redstill2.jpg); 
 	background-position: left;
 	background-repeat: repeat-x;
 	}
