@@ -42,7 +42,7 @@
     h1 {
         color: #ff0000;
         background-color: #853F20;
-        opacity: 8;
+        opacity: .8;
         border-style: groove;
         border-width: .05em;
         border-top-left-radius: 80px;
