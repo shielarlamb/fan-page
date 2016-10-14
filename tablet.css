@@ -1,0 +1,47 @@
+             @media only screen and (max-width: 768px) {
+                 body {
+                     margin: 0;
+                 }
+                 main {
+                     margin-left: 0;
+                 }
+                 nav {
+                     float: none;
+                     width: auto;
+                 }
+                 nav li {
+                     display: inline;
+                     padding: 0.5em 0;
+                 }
+                 nav ul {
+                     text-align: center;
+                 }
+                 nav a {
+                     padding-right: .5em;
+                     padding-left: .5em;
+                 }
+                 nav,
+                 nav ul,
+                 nav li {
+                     padding: 0;
+                 }
+                 li {
+                     display: block;
+                     font-size: 75%;
+                 }
+                 h1,
+                 h4,
+                 h3 {
+                     font-size: 75%;
+                 }
+                 span {
+                     font-size: 75%
+                 }
+                 p {
+                     font-size: 75%;
+                 }
+                 img {
+                     max-width: 80%;
+                     height: auto
+                 }
+             }
